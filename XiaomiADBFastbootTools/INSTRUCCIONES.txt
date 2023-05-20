@@ -1,5 +1,7 @@
-1.//INSTALAR PRIMERO EL JDK
-2.//EJECUTAR EL ARCHIVO .JACK
-3.//EL ARCHIVO.RAR CONTIENE EL CODIGO DEL PROGRA
-  POR SI DESEAS MEJORAR EL PROYECTO.
-4.//GRACIAS
+//Una disculpa el archivo completo pesa mas de 25mb
+//lo puedes encontrar en Mediafire
+//Aqui esta el Link bro
+//Intrucciones: https://www.mediafire.com/file/uwypbuf1uelw8g0/INSTRUCCIONES.txt/file
+//JDK 64 BITS: https://www.mediafire.com/file/hno78vea7dmw0ou/jdk-20_windows-x64_bin.exe/file
+//XiaomiADBFastbootTools: https://www.mediafire.com/file/y9oyd06u473pwu3/XiaomiADBFastbootTools.jar/file
+//Codigo del JACK: https://www.mediafire.com/file/6arevpeh0gg455d/XiaomiADBFastbootTools_source_from_Procyon.zip/file
